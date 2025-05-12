@@ -1,7 +1,15 @@
 # 🧠 Binary Search Tree Görselleştirme (C# WinForms)
 
 Bu proje, C# WinForms kullanılarak geliştirilmiş bir **ikili arama ağacı (BST)** görselleştirme uygulamasıdır. Kullanıcılar sayı ekleyebilir, silebilir ve BST üzerinde gezinme algoritmalarını **renkli animasyonlarla** izleyebilir.
+## 👥 Grup Üyeleri
 
+| Adı Soyadı        | Numara     | 
+|--------------------|------------|
+| Ali Can Ayhan      | 032190050  |
+| Tolga Babacan      | 032190029  | 
+| Osman İlhan        | 032190046  | 
+| Koray Kayan        | 032190048  | 
+| Zeynep Alperen     | 032190064  |
 ## 🚀 Özellikler
 
 - 🟦 Sayı ekleme ve BST üzerinde otomatik çizim
