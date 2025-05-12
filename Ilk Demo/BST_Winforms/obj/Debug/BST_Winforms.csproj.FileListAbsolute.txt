@@ -1,0 +1,10 @@
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\bin\Debug\BST_Winforms.exe.config
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\bin\Debug\BST_Winforms.exe
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\bin\Debug\BST_Winforms.pdb
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\obj\Debug\BST_Winforms.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\obj\Debug\BST_Winforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\obj\Debug\BST_Winforms.Properties.Resources.resources
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\obj\Debug\BST_Winforms.csproj.GenerateResource.cache
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\obj\Debug\BST_Winforms.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\obj\Debug\BST_Winforms.exe
+C:\Users\Ali Can\Desktop\C#\BST_Winforms\BST_Winforms\obj\Debug\BST_Winforms.pdb
