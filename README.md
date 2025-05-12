@@ -1,3 +1,5 @@
+# 👑 GİTHUB LİNK : https://github.com/Alicanayhn/Veri-Yapilari
+
 # 🧠 Binary Search Tree Görselleştirme (C# WinForms)
 
 Bu proje, C# WinForms kullanılarak geliştirilmiş bir **ikili arama ağacı (BST)** görselleştirme uygulamasıdır. Kullanıcılar sayı ekleyebilir, silebilir ve BST üzerinde gezinme algoritmalarını **renkli animasyonlarla** izleyebilir.
