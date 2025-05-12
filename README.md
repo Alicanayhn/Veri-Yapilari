@@ -1,4 +1,4 @@
-# 👑 GİTHUB LİNK : https://github.com/Alicanayhn/Veri-Yapilari
+# 👑 Github Link : https://github.com/Alicanayhn/Veri-Yapilari
 
 # 🧠 Binary Search Tree Görselleştirme (C# WinForms)
 
